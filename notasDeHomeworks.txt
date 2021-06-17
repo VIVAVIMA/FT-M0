@@ -1,0 +1,12 @@
+homework Daniel Viasus
+02-JS-I
+variable : es la asinacion de un nombre a un dato en concreto para guardarlo y de esta forma podemos utilizarlo mas adelante , es decir , la variable edad la declararia para asignar un valor numerico que (var edad = 27) cuando yo llame la variable edad ella tendra guardada dentro de ella el valor (27)
+String : se le denomina String a una cadena de texto un ejemplo puede ser ("Auto");
+Funciones (argumentos, return): un funcion es una estructura en la cual se crea para almacenar un Sketch (Argumento) especifico y se ejecute cuando se llame a dicha funcion , y el (retun) se usa para sacar un resultado el cual fue creado en la misma funcion , por ende al terminar el proceso y usar Retun podemos obtener un dato ,o un numeto que halla proporcionado la funcion
+Declaraciones if: las declaraciones if son condicionales , es decir que para poder entrar a un condicional promero se debe cumplir con una condicion un ejemplo es if(tiempo>=30){var logro="Superado";} en esta condicion tenemos una variable llamada tiempo , e indica que si esta variable tiempo supera el valor de (30) entrara al condicional ir y modificara otra variable llamada logro con el valor "superado" en este caso cuando se quiera revisar el valor de logro su valor sera "superado"
+Valores booleanos (true, false): los valores boleanos solo tienen dos estados (1,0)(verdadero, negativo)
+
+03-JS-II
+for: es una sintaxis parecida al if , a diferencia que el "for" es un bucle que se repetira tantas veces como las condiciones iniciales lo determinen , aunque hay que tener en cuenta que si no se determinan de manera correcta los parametros el for puede convertirse en un bucle infinito lo cual evitara que nunca salga de su sintaxis y evitira ejecutar el resto del codigo.
+&& o and : es un a compuerta logica , basicamente evalua dos o mas argumentos y si todos son (true) el devolvera un (true); pero si uno de ellos es (false) el devolvera un (false) 
+|| o Or : es una compuerta logica que evalua dos o mas argumentos , si uno de esos argumentos es (true) el devolvera un true ; pero si todos los argumentos es false el devolvera un (false)  
