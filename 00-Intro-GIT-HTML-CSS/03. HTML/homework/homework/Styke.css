@@ -1,0 +1,30 @@
+
+
+h{color: blueviolet;
+font-size: 80px;
+}
+h1{color: rgb(226, 223, 43);
+font-size: 20px;
+}
+h3{color: rgb(226, 43, 43);
+font-size: 30px;
+}
+h4{color: rgb(47, 75, 117);
+font-size: 10px;
+}
+img{
+    width :400px ;
+}
+
+div#thirdDiv{
+border: red 10px dashed;
+height:600px;
+width: 500px;
+background-color: rgb(27, 19, 104);
+color:rgb(47, 75, 117);
+padding: 50px 50px 50px;
+
+}
+span#spanId {font-size: 18px;
+margin: 50px;
+}
