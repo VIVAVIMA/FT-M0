@@ -10,3 +10,10 @@ Valores booleanos (true, false): los valores boleanos solo tienen dos estados (1
 for: es una sintaxis parecida al if , a diferencia que el "for" es un bucle que se repetira tantas veces como las condiciones iniciales lo determinen , aunque hay que tener en cuenta que si no se determinan de manera correcta los parametros el for puede convertirse en un bucle infinito lo cual evitara que nunca salga de su sintaxis y evitira ejecutar el resto del codigo.
 && o and : es un a compuerta logica , basicamente evalua dos o mas argumentos y si todos son (true) el devolvera un (true); pero si uno de ellos es (false) el devolvera un (false) 
 || o Or : es una compuerta logica que evalua dos o mas argumentos , si uno de esos argumentos es (true) el devolvera un true ; pero si todos los argumentos es false el devolvera un (false)  
+
+
+05-JS-IV
+Objetos: los objetos son contenedores en los cuales se pueden almacenar varios datos (informacion dirigida a una variable en especifivo), por ejemplo un objeto Daniel={ edad= 27, estudios='universditario', sexo='Masculino'... etc}
+propiedades; como ya se habia mensionado son los valores especificos contenidos en un bojeto.
+Metodos: es la notacion implementada para llamar a una propiedad en especifico del objeto al cual hagamos referencia 
+Bucle for(in) : basicamente fuunciona igualk que un for , a diferencia que a este se le agrega la palabra clave in  para que recorra cada clave del objeto y se termine cuando halla recocrido cada clave del mismo objeto al cual se le halla referenciado
